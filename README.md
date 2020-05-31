@@ -1,6 +1,10 @@
 # todo
 
-> A todo app for me to help me keep on top of tasks
+A todo app for me to help me keep on top of tasks. All articles are stored in localstorage - no back end server or database is used
+
+<div style="text-align: center;">
+  <img src="./screenshot.png" >
+</div>
 
 ## Build Setup
 
